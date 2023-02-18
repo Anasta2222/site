@@ -1,0 +1,15 @@
+a{
+    font-size: 30px;
+}
+h1{
+    font-size: 70px;
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-color: rgb(255, 249, 138);
+}
